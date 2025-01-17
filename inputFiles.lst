@@ -1,0 +1,12 @@
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/model/Stock.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/model/dto/StockRequestDTO.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/model/dto/StockRequest.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/service/PortfolioService.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/model/User.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/1.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/controller/PortfolioController.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/repository/UserStockRepository.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/repository/StockRepository.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/model/UserStock.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/repository/UserRepository.java
+/home/javvav2/Desktop/portfolio/src/test/java/com/example/portfolio/PortfolioApplicationTests.java
